@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListaSimples</string>
+    <string name="tvItemName">Item:</string>
+    <string name="tvItemQtd">Qtd:</string>
+</resources>
